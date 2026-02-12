@@ -12,6 +12,10 @@ This project is a smart speedometer that uses an ESP32 to read data from a GPS m
 - Power Supply
 - 3D Printed Case
 
+## Needed Libraries
+
+Still in research phase
+
 ## Disclaimer
 
 This project is for educational purposes only. I am not responsible for any damages caused by this project. It is not meant to be used as a legal speedometer.
